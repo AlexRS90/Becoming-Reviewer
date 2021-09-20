@@ -22,7 +22,7 @@ In this project I made this repository from a past activity that I built in the 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AlexRS90/Becoming-reviewer/issues).
+Feel free to check the [issues page](https://github.com/AlexRS90/Becoming-Reviewer/issues).
 
 ## Show your support
 
